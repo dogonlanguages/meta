@@ -1,6 +1,6 @@
 # Dogonlanguages data
 
-## Status quo
+## Status quo ante
 
 - https://github.com/clld/dogonlanguages-data
 - https://github.com/tsammalex/heathdogon : Dogon data extracted from the flora&fauna spreadsheets and incorporated in Tsammalex
@@ -11,3 +11,8 @@
   dlce-eva/mediacatalog$ cat cdstar/catalog.json | grep dogonlanguages | grep project | wc -l
   4118
   ```
+
+
+## Status quo post
+
+- CLDF Wordlist at https://github.com/dogonlanguages/lexicon (?)
